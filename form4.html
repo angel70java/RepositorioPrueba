@@ -1,0 +1,75 @@
+<HTML>
+<HEAD>
+  <TITLE>
+  Gracias por darme tu opinión sobre la página
+  </TITLE>
+  <!-- En esta parte de aquí se ligan las css-->
+  <link rel="stylesheet" type="text/css" href="estilos.css"/>
+ 
+  </HEAD>
+  
+  <!-- En esta parte de aquí se ponen los scripts de java script-->
+  
+   <script language="javascript" type="text/javascript">
+     
+	 function validaform(contacto){
+	 if (document.contacto.Apellidos.value.length=="") {
+	 alert ("El campo apellidos está vacio");
+	 document.contacto.Apellidos.focus();
+	  return false;}
+	  else
+	     if (document.contacto.comentarios.value.length<=4){
+		 alert ("El comentario es muy corto");
+		 document.contacto.comentarios.focus();
+	     return false;}
+		 else
+	     if (document.contacto.love1.value.length==""){
+		 alert ("Señala un recuadro en el área de ¿qué es lo que mas te ha gustado?");
+	     return false;}
+		 else
+	     if (document.contacto.e_mail.value.length==""){
+		 alert ("Faltó incluir tu e-mail");
+		 document.contacto.e_mail.focus();
+	     return false;}
+		 else
+	      return true;
+	   }
+   </script>	
+<BODY>
+   
+   <form method="post" id="contacto" name="contacto"  action="mailto:angel70java@gmail.com" onsubmit="return validaform()" enctype="text/plain">
+   
+   <P>  Apellidos:<input type="text" name="Apellidos"/> </P>
+   
+   <!-- El siguiente código es para realizar botones de opciones-->
+   
+   <P> ¿Qué te parece mi sitio web? Selecciona una respuesta:</P>
+       <input name="nota" type="radio" value="1">1 (No es muy interesante)<br/>
+	   <input name="nota" type="radio" value="2">2 (Regular)<br/>
+	   <input name="nota" type="radio" value="3">3 (Bien)<br/>
+	   <input name="nota" type="radio" value="4">4 (Más que bien)<br/>
+	   <input name="nota" type="radio" value="5" checked="checked">5 (¡Realmente me encantó!)<br/>
+	   
+	   <!-- El siguiente código es para realizar casillas de verificación-->
+	   
+	   <P> ¿Qué es lo que más te ha gustado? <br/>
+	   <input name="love1" type="checkbox" value="Todo el site"checked="checked"/> ¡Todo está muy bien! <br/>
+	   <input name="love2" type="checkbox" value="El tema"/>El tema <br/>
+	   <input name="love3" type="checkbox" value="El color" />La elección de colores<br/>
+	   <input name="love4" type="checkbox" value="Diseño"/>El diseño <br/>
+	   <input name="love5" type="checkbox" value="Humor"/> Tu humor </P>
+	   
+	   <!-- El siguiente código es para insertar campo de texto-->
+	   <P>¿Tienes algo que quieras comentar?</p>
+	   <textarea rows="5" cols="30" name="comentarios"/>
+	   </textarea>
+	   
+	   <P> ¿Cuál es tu dirección de e-mail?</P>
+	    <input type="text" name="e_mail"/> </P>
+         
+	   <P> <button type="submit"> Enviar el formulario por e-mail</button>&nbsp;&nbsp;
+	       <button type="reset"> Cancelar</button> </P>
+</form>
+</BODY>
+
+</HTML>
