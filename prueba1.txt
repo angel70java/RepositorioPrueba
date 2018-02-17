@@ -1,0 +1,56 @@
+<HTML>
+<HEAD>
+   <TITLE>
+       Conocimiento Tolteca
+   </TITLE>
+   <script>
+     function mensaje(){
+	 alert ("Ese es el autor del libro");
+	 }
+   </script>
+   <link rel="stylesheet" type="text/css" href="estilos.css"/>
+</HEAD>
+
+
+
+   <BODY>
+    <BACKGROUND="AGUILA.bmp" BGPROPERTIES=FIXED>
+     <H1 onClick="mensaje()"> CARLOS CASTANEDA Y LAS ENSEÑANZAS DE DON JUAN</H1>
+<IMG SRC=Carlos.BMP ALT="Carlos Castaneda" BORDER="5"/>
+
+<P>
+Carlos Castaneda es el autor de la saga más profunda e interesante acerca del nahualismo mexicano.
+Estudiaba su doctorado en la universidad de California, cuando uno de sus profesores les prometió otorgar un 10 de calificación a aquellos
+que pudieran obtener una entrevista de campo con un indio verdadero.
+</P>
+<P>
+De esa manera Carlos se trasladó a la frontera con México en el estado de Sonora y un amigo le presentó a un viejo indio Yaqui advirtiéndole que él le
+podía enseñar acerca de las plantas medicinales (principal interés de Carlos en ese entonces). También le advirtió que tuviera cuidado pues era un viejo muy exéntrico.
+</P>
+<P>
+Carlos sólo tuvo un breve contacto con aquel hombre llamado Don Juan Matus, sin embargo quedó encantado con la mirada del Indio quién después de una breve charla, se alejó y partió. Esa pequeña entrevista fue el inicio 
+de un aprendizaje profundo en el arte del nahualismo antiguo, lo que Don Juan llamaba "Brujería".
+</P>
+
+
+<H2> Saga de libros de Carlos Castaneda </H2">
+<OL>
+<LI>Las enseñanzas de Don Juan
+<LI> Una realidad aparte</EM>
+<LI> Viaje a Ixtlán
+<LI> Relatos de poder
+<LI> El segundo anillo de poder
+<LI> El Don del Águila
+<LI> El Fuego interno
+<LI> El conocimiento silencioso
+<LI> El arte de ensoñar
+<LI> La rueda del tiempo
+<LI> El lado activo del infinito
+</OL>
+<IMG src="conocimiento.bmp"/>
+<P>
+<A HREF="form4.htm"> Dejame tu comentario </A>
+</P>
+
+</BODY>
+</HTML>
