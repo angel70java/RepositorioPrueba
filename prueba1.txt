@@ -24,28 +24,30 @@ Estudiaba su doctorado en la universidad de California, cuando uno de sus profes
 que pudieran obtener una entrevista de campo con un indio verdadero.
 </P>
 <P>
-De esa manera Carlos se trasladó a la frontera con México en el estado de Sonora y un amigo le presentó a un viejo indio Yaqui advirtiéndole que él le
-podía enseñar acerca de las plantas medicinales (principal interés de Carlos en ese entonces). También le advirtió que tuviera cuidado pues era un viejo muy exéntrico.
+De esa manera Carlos se trasladó a  Nogales Arizona y un amigo le presentó a un viejo indio Yaqui advirtiéndole que él le
+podía enseñar acerca de las plantas medicinales (principal interés de Carlos en ese entonces). También le advirtió que tuviera cuidado pues era un viejo muy excéntrico.
 </P>
 <P>
-Carlos sólo tuvo un breve contacto con aquel hombre llamado Don Juan Matus, sin embargo quedó encantado con la mirada del Indio quién después de una breve charla, se alejó y partió. Esa pequeña entrevista fue el inicio 
+Carlos sólo tuvo un breve contacto con aquel hombre llamado Don Juan Matus, sin embargo, quedó encantado con la mirada del Indio quién después de una breve charla, se alejó y partió. Esa pequeña entrevista fue el inicio 
 de un aprendizaje profundo en el arte del nahualismo antiguo, lo que Don Juan llamaba "Brujería".
 </P>
 
 
 <H2> Saga de libros de Carlos Castaneda </H2">
 <OL>
-<LI>Las enseñanzas de Don Juan
-<LI> Una realidad aparte</EM>
-<LI> Viaje a Ixtlán
-<LI> Relatos de poder
-<LI> El segundo anillo de poder
-<LI> El Don del Águila
-<LI> El Fuego interno
-<LI> El conocimiento silencioso
-<LI> El arte de ensoñar
-<LI> La rueda del tiempo
-<LI> El lado activo del infinito
+<LI>Las enseñanzas de Don Juan </LI>
+<LI> Una realidad aparte</EM></LI>
+<LI> Viaje a Ixtlán</LI>
+<LI> Relatos de poder</LI>
+<LI> El segundo anillo de poder</LI>
+<LI> El Don del Águila</LI>
+<LI> El Fuego interno</LI>
+<LI> El conocimiento silencioso</LI>
+<LI> El arte de ensoñar</LI>
+<LI> La rueda del tiempo</LI>
+<LI> El lado activo del infinito</LI>
+<LI> El Silencio interno</LI>
+<LI> Pases mágicos</LI>
 </OL>
 <IMG src="conocimiento.bmp"/>
 <P>
